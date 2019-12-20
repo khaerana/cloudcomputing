@@ -4,7 +4,7 @@
 	<title>Aplikasi Tugas Cloud Computing</title>
 </head>
 <body>
-	<h1>Selamat Datang di Websiteku</h1>
+	<h1 align="center">Selamat Datang di Websiteku</h1>
 	
 	<table align="center">
 		<tr>
